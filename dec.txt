@@ -2,5 +2,5 @@
 2
 3
 
-vera
+vera Mac version
 hello today!
